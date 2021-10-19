@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DataStructure.iml" filepath="$PROJECT_DIR$/.idea/DataStructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/剑指 Offer 05. 替换空格/剑指 Offer 05. 替换空格.iml" filepath="$PROJECT_DIR$/剑指 Offer 05. 替换空格/剑指 Offer 05. 替换空格.iml" />
+      <module fileurl="file://$PROJECT_DIR$/剑指 Offer 06. 从尾到头打印链表/剑指 Offer 06. 从尾到头打印链表.iml" filepath="$PROJECT_DIR$/剑指 Offer 06. 从尾到头打印链表/剑指 Offer 06. 从尾到头打印链表.iml" />
       <module fileurl="file://$PROJECT_DIR$/数组/数组.iml" filepath="$PROJECT_DIR$/数组/数组.iml" />
     </modules>
   </component>
