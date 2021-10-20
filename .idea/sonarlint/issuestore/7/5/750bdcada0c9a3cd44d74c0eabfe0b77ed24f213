@@ -1,14 +1,0 @@
-
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÍÓûÿÿÿÿ8€ç˜éÈ/
-Q
-java:S6212"/Declare this local variable with "var" instead.(Ò€‘îùÿÿÿÿ8ç˜éÈ/
-K
-java:S6212"/Declare this local variable with "var" instead.(ÿƒäg8¤ç˜éÈ/
-N	java:S106"9Replace this use of System.out or System.err by a logger.(š¨ØÒ
-]	java:S125""<This block of commented-out lines of code should be removed.(ô¹¹¦ÿÿÿÿÿ8ƒ÷’éÈ/
-E
-java:S62125"/Declare this local variable with "var" instead.(µâÌÊ
-E
-java:S62126"/Declare this local variable with "var" instead.(Õòú˜
-Z	java:S106:"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ8…÷’éÈ/
-Z	java:S106<"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8¨ç˜éÈ/
