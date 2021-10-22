@@ -1,0 +1,6 @@
+
+4
+java:S1659	"Declare "B" on a separate line.(¹¯‡t
+`	java:S116	"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¯‡t
+`	java:S116	"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¯‡t
+V	java:S125""<This block of commented-out lines of code should be removed.(µÆ’Ìùÿÿÿÿ
